@@ -3,6 +3,7 @@ Company:CODTECH IT SOLUTIONS
 ID:CT08DS7254
 Domain:python programming
 Duration:August to September 2024
+Mentor:Neela santhosh Kumar 
 
 Overview of the project
 OBJECTIVE
