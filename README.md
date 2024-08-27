@@ -15,3 +15,13 @@ Basic Arithmetic Operations: Implement core functions to perform addition, subtr
 Error Handling: Handle potential errors, such as division by zero or invalid input, gracefully.
 Output Results: Display the result of the selected operation to the user.
 Flexibility: Provide a way to perform multiple calculations in a session, often through a loop or menu system.
+OUTPUT:
+Welcome to the basic calculator!
+Enter the first number: 56
+Enter the second number: 7
+Select operation:
+2. Subtraction
+3. Multiplication
+4. Division
+Enter the number of the operation you want to perform (1/2/3/4): 4
+Result: 56.0 / 7.0 = 8.0
