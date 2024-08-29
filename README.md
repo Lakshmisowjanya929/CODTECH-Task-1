@@ -25,3 +25,4 @@ Select operation:
 4. Division
 Enter the number of the operation you want to perform (1/2/3/4): 4
 Result: 56.0 / 7.0 = 8.0
+![Screenshot (2)](https://github.com/user-attachments/assets/824c02d0-3bcb-43f7-8526-4141c6cc5105)
